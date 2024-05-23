@@ -20,7 +20,7 @@ However, a way to recommend comics by similar titles (for use by customers, but 
 
 The dropdown menus produce more accurate recommendations faster, given that the entire selected title is submitted and compared to the titles in the dataframe, as opposed to the search box's input being compared as it is typed, incomplete until the user stops typing. There is also a distinct lag between the finalized recommendations given when using the search box, due to the call to the recommendations_by_search function for each character typed into the search box.
 
-An interactive scatterplot is created and opened in a new browser window when a button is clicked, and displays points for the selected title and its group of recommendations. Hovering over a plotted point will display the comic's title and the cosine similarity score of that title in relation to the title selected.
+An interactive scatterplot is created when a button is clicked, and displays points for the selected title and its group of recommendations. Hovering over a plotted point will display the comic's title and the cosine similarity score of that title in relation to the title selected.
 
 
 
