@@ -1,0 +1,2105 @@
+2024-04-29 11:32:53,741 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 11:33:40,831 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 11:34:17,726 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 11:38:58,864 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 11:39:31,797 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 11:39:32,029 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 12:08:02,135 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 12:23:47,145 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 12:37:36,045 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 12:38:31,759 - INFO - login_button clicked
+2024-04-29 12:38:32,680 - INFO - reports_button clicked
+2024-04-29 12:38:34,179 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 12:38:34,533 - INFO - exit_button clicked
+2024-04-29 12:41:21,030 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 13:05:03,458 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 13:17:43,507 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 13:17:49,769 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 13:17:53,332 - INFO - Creating scatterplot...
+2024-04-29 13:21:19,321 - INFO - Succesful login: Customer Name: {customer_name}, Customer ID: {c_id}
+2024-04-29 13:25:37,757 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 13:26:25,015 - INFO - login_button clicked
+2024-04-29 13:26:28,061 - INFO - reports_button clicked
+2024-04-29 13:26:31,261 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 13:26:32,374 - INFO - exit_button clicked
+2024-04-29 13:27:16,463 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 13:27:26,539 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 13:27:29,833 - INFO - Creating scatterplot...
+2024-04-29 13:39:12,289 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 13:40:06,299 - INFO - login_button clicked
+2024-04-29 13:40:06,961 - INFO - reports_button clicked
+2024-04-29 13:40:07,379 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 13:40:07,715 - INFO - exit_button clicked
+2024-04-29 13:41:55,438 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 13:42:04,754 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 13:42:06,791 - INFO - Creating scatterplot...
+2024-04-29 13:43:30,272 - INFO - Succesful login: Customer Name: {customer_name}, Customer ID: {c_id}
+2024-04-29 13:43:30,378 - INFO - Succesful login: Customer Name: {customer_name}, Customer ID: {c_id}
+2024-04-29 13:44:33,988 - INFO - Succesful login: Customer Name: {customer_name}, Customer ID: {c_id}
+2024-04-29 13:44:34,151 - INFO - Succesful login: Customer Name: {customer_name}, Customer ID: {c_id}
+2024-04-29 13:58:36,883 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 13:59:55,173 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 14:01:27,328 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 14:02:05,504 - INFO - login_button clicked
+2024-04-29 14:02:06,206 - INFO - reports_button clicked
+2024-04-29 14:02:07,096 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 14:02:07,524 - INFO - exit_button clicked
+2024-04-29 14:04:54,808 - ERROR - An error has occurred: can only concatenate str (not "set") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15020\3795662531.py", line 32, in login
+    logging.info("Succesful login: Customer Name:"+{customer_name}+", Customer ID: "+{c_id})
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: can only concatenate str (not "set") to str
+2024-04-29 15:08:45,926 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 15:09:24,840 - INFO - login_button clicked
+2024-04-29 15:34:21,079 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 15:45:06,418 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 15:47:36,387 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 15:57:14,193 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 16:07:21,426 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 16:36:17,545 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 16:37:08,267 - INFO - login_button clicked
+2024-04-29 16:37:14,228 - INFO - reports_button clicked
+2024-04-29 16:37:16,321 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 16:37:16,673 - INFO - exit_button clicked
+2024-04-29 16:37:56,171 - ERROR - An error has occurred: can only concatenate str (not "set") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_17204\196726366.py", line 32, in login
+    logging.info("Succesful login: Customer Name:"+{customer_name}+", Customer ID: "+{c_id})
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: can only concatenate str (not "set") to str
+2024-04-29 16:40:12,409 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 17:14:59,031 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 17:38:06,556 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 17:38:08,493 - INFO - Connected to database.
+2024-04-29 17:49:32,977 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 17:49:34,551 - INFO - Connected to database.
+2024-04-29 17:50:22,809 - INFO - login_button clicked
+2024-04-29 17:50:29,470 - INFO - reports_button clicked
+2024-04-29 17:50:35,595 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 17:50:36,177 - INFO - exit_button clicked
+2024-04-29 18:01:02,138 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:01:04,809 - INFO - Connected to database.
+2024-04-29 18:02:48,697 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:02:50,170 - INFO - Connected to database.
+2024-04-29 18:03:41,355 - INFO - login_button clicked
+2024-04-29 18:03:43,457 - INFO - reports_button clicked
+2024-04-29 18:03:45,947 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 18:03:46,512 - INFO - exit_button clicked
+2024-04-29 18:06:17,099 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:06:18,897 - INFO - Connected to database.
+2024-04-29 18:17:03,073 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:17:04,606 - INFO - Connected to database.
+2024-04-29 18:21:48,294 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:21:49,784 - INFO - Connected to database.
+2024-04-29 18:22:30,951 - INFO - login_button clicked
+2024-04-29 18:27:00,617 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:27:02,151 - INFO - Connected to database.
+2024-04-29 18:28:12,083 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:28:14,677 - INFO - Connected to database.
+2024-04-29 18:28:53,397 - INFO - login_button clicked
+2024-04-29 18:28:54,235 - INFO - reports_button clicked
+2024-04-29 18:28:55,035 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 18:28:55,438 - INFO - exit_button clicked
+2024-04-29 18:29:49,842 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:29:51,323 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:29:51,545 - INFO - Connected to database.
+2024-04-29 18:29:52,842 - INFO - Connected to database.
+2024-04-29 18:33:39,656 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_16824\2060293470.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:34:19,937 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 18:34:27,628 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 18:34:31,966 - INFO - Creating scatterplot...
+2024-04-29 18:36:59,017 - INFO - Printing recommendations (via search_box)...
+2024-04-29 18:37:30,870 - INFO - Printing recommendations (via search_box)...
+2024-04-29 18:37:32,760 - INFO - Printing recommendations (via search_box)...
+2024-04-29 18:39:16,526 - INFO - Printing recommendations (via search_box)...
+2024-04-29 18:40:02,583 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:40:05,979 - INFO - Connected to database.
+2024-04-29 18:40:52,571 - INFO - login_button clicked
+2024-04-29 18:40:53,260 - INFO - reports_button clicked
+2024-04-29 18:40:54,282 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 18:40:54,604 - INFO - exit_button clicked
+2024-04-29 18:41:37,005 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:42:57,449 - INFO - login_button clicked
+2024-04-29 18:43:02,365 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:43:02,381 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:44:35,983 - INFO - login_button clicked
+2024-04-29 18:44:40,862 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:44:40,868 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:44:40,873 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2312074959.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:49:02,904 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:49:02,919 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:49:02,919 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2312074959.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:20,700 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:20,716 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:20,722 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2312074959.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:39,824 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:39,824 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:39,824 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2312074959.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:39,924 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:39,924 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:51:39,940 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2312074959.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:52:37,285 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\1200510547.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:52:37,285 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2140839865.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:52:37,285 - ERROR - An error has occurred: can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_5020\2312074959.py", line 34, in login
+    logging.info("Succesful login: Customer Name:"+customer_name+", Customer ID: "+c_id)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+2024-04-29 18:55:41,553 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 18:55:43,423 - INFO - Connected to database.
+2024-04-29 18:56:21,906 - INFO - login_button clicked
+2024-04-29 18:56:22,485 - INFO - reports_button clicked
+2024-04-29 18:56:23,024 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 18:56:23,329 - INFO - exit_button clicked
+2024-04-29 18:58:36,357 - INFO - login_button clicked
+2024-04-29 18:58:57,781 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3502880377.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:58:57,781 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892996785.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:38,962 - INFO - login_button clicked
+2024-04-29 18:59:43,222 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3502880377.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:43,238 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892996785.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:43,238 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892441002.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:54,526 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3502880377.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:54,526 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892996785.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:54,541 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892441002.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:58,020 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3502880377.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:58,036 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892996785.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 18:59:58,036 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892441002.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 19:00:50,640 - INFO - login_button clicked
+2024-04-29 19:00:56,912 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3502880377.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 19:00:56,912 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892996785.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 19:00:56,912 - ERROR - An error has occurred: 'int' object has no attribute 'tostring'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_15460\3892441002.py", line 33, in login
+    c_id_string = c_id.tostring()
+                  ^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'tostring'
+2024-04-29 19:00:56,927 - INFO - Succesful login, Customer ID: 17
+2024-04-29 19:10:23,051 - INFO - Connected to database.
+2024-04-29 19:10:42,891 - INFO - Connected to database.
+2024-04-29 19:10:42,937 - INFO - Connected to database.
+2024-04-29 19:24:54,793 - INFO - login_button clicked
+2024-04-29 19:26:05,776 - INFO - reports_button clicked
+2024-04-29 19:37:13,941 - ERROR - Exception in comm_msg for 37d4685c-9832-4c19-a433-63e24afad592
+Traceback (most recent call last):
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\comm\base_comm.py", line 296, in comm_msg
+    comm.handle_msg(msg)
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\comm\base_comm.py", line 191, in handle_msg
+    self._msg_callback(msg)
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 391, in _handle_control_comm_msg
+    cls.get_manager_state()
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 445, in get_manager_state
+    state[widget.model_id] = widget._get_embed_state(drop_defaults=drop_defaults)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 454, in _get_embed_state
+    model_state, buffer_paths, buffers = _remove_buffers(self.get_state(drop_defaults=drop_defaults))
+                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 615, in get_state
+    value = to_json(getattr(self, k), self)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 52, in _widget_to_json
+    return [_widget_to_json(v, obj) for v in x]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 52, in <listcomp>
+    return [_widget_to_json(v, obj) for v in x]
+            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 54, in _widget_to_json
+    return "IPY_MODEL_" + x.model_id
+                          ^^^^^^^^^^
+  File "C:\Users\exocu\anaconda3\Lib\site-packages\ipywidgets\widgets\widget.py", line 552, in model_id
+    return self.comm.comm_id
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'comm_id'
+2024-04-29 21:34:41,788 - INFO - NumExpr defaulting to 4 threads.
+2024-04-29 21:34:44,181 - INFO - Connected to database.
+2024-04-29 21:38:02,811 - INFO - login_button clicked
+2024-04-29 21:38:32,913 - INFO - reports_button clicked
+2024-04-29 21:39:10,591 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 21:39:13,131 - INFO - exit_button clicked
+2024-04-29 22:38:49,672 - INFO - Succesful login, Customer ID: 17
+2024-04-29 22:39:18,147 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-29 22:39:21,124 - INFO - customer's top_comics values successfully listed
+2024-04-29 22:39:21,124 - INFO - Printing customer's purchased titles...
+2024-04-29 22:39:21,124 - INFO - Opening network graph in new browser window...
+2024-04-29 22:41:06,905 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 22:41:14,474 - INFO - Printing recommendations (via dropdowns)...
+2024-04-29 22:41:17,888 - INFO - Creating scatterplot...
+2024-04-29 22:43:22,623 - INFO - Connected to database.
+2024-04-29 22:51:48,472 - INFO - login_button clicked
+2024-04-29 22:52:32,622 - INFO - reports_button clicked
+2024-04-29 22:52:59,644 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-29 22:53:02,266 - INFO - exit_button clicked
+2024-04-30 00:14:46,730 - INFO - Succesful login, Customer ID: 17
+2024-04-30 00:15:01,156 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 00:15:02,945 - INFO - customer's top_comics values successfully listed
+2024-04-30 00:15:02,945 - INFO - Printing customer's purchased titles...
+2024-04-30 00:15:02,945 - INFO - Opening network graph in new browser window...
+2024-04-30 10:24:44,536 - INFO - Connected to database.
+2024-04-30 10:33:08,964 - INFO - login_button clicked
+2024-04-30 10:33:38,208 - INFO - reports_button clicked
+2024-04-30 10:33:53,098 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 10:33:54,665 - INFO - exit_button clicked
+2024-04-30 10:40:24,053 - INFO - Succesful login, Customer ID: 1
+2024-04-30 10:40:46,047 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 10:40:49,425 - INFO - customer's top_comics values successfully listed
+2024-04-30 10:40:49,425 - INFO - Printing customer's purchased titles...
+2024-04-30 10:40:49,441 - INFO - Opening network graph in new browser window...
+2024-04-30 10:44:02,666 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 10:44:23,343 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 10:44:29,728 - INFO - Creating scatterplot...
+2024-04-30 10:49:00,409 - INFO - Succesful login, Customer ID: 1
+2024-04-30 10:49:54,203 - INFO - reports_button clicked
+2024-04-30 10:50:11,033 - INFO - Succesful login, Customer ID: 1
+2024-04-30 10:50:27,263 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 10:50:27,551 - INFO - customer's top_comics values successfully listed
+2024-04-30 10:50:27,551 - INFO - Printing customer's purchased titles...
+2024-04-30 10:50:27,551 - INFO - Opening network graph in new browser window...
+2024-04-30 10:50:27,563 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 10:50:28,019 - INFO - customer's top_comics values successfully listed
+2024-04-30 10:50:28,019 - INFO - Printing customer's purchased titles...
+2024-04-30 10:50:28,023 - INFO - Opening network graph in new browser window...
+2024-04-30 11:46:46,878 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 11:46:49,941 - INFO - Connected to database.
+2024-04-30 11:47:46,572 - INFO - login_button clicked
+2024-04-30 11:47:49,827 - INFO - reports_button clicked
+2024-04-30 11:47:53,843 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 11:47:54,377 - INFO - exit_button clicked
+2024-04-30 11:49:07,834 - INFO - Succesful login, Customer ID: 1
+2024-04-30 11:51:59,709 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 11:52:04,073 - INFO - customer's top_comics values successfully listed
+2024-04-30 11:52:04,073 - INFO - Printing customer's purchased titles...
+2024-04-30 11:52:04,073 - INFO - Opening network graph in new browser window...
+2024-04-30 12:02:26,444 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 12:02:28,356 - INFO - Connected to database.
+2024-04-30 12:03:07,632 - INFO - login_button clicked
+2024-04-30 12:03:08,450 - INFO - reports_button clicked
+2024-04-30 12:03:09,205 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 12:03:09,785 - INFO - exit_button clicked
+2024-04-30 12:04:02,568 - INFO - Succesful login, Customer ID: 1
+2024-04-30 12:04:15,596 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 12:04:16,182 - INFO - customer's top_comics values successfully listed
+2024-04-30 12:04:16,182 - INFO - Printing customer's purchased titles...
+2024-04-30 12:04:16,182 - INFO - Opening cosine similarities network graph...
+2024-04-30 12:19:49,340 - INFO - reports_button clicked
+2024-04-30 12:20:06,524 - INFO - Succesful login, Customer ID: 1
+2024-04-30 12:20:09,497 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 12:20:09,768 - INFO - customer's top_comics values successfully listed
+2024-04-30 12:20:09,769 - INFO - Printing customer's purchased titles...
+2024-04-30 12:20:09,769 - INFO - Opening cosine similarities network graph...
+2024-04-30 12:20:09,831 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 12:20:10,107 - INFO - customer's top_comics values successfully listed
+2024-04-30 12:20:10,107 - INFO - Printing customer's purchased titles...
+2024-04-30 12:20:10,108 - INFO - Opening cosine similarities network graph...
+2024-04-30 12:21:50,143 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 12:21:59,639 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 12:22:09,576 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 12:22:13,387 - INFO - Creating scatterplot...
+2024-04-30 12:39:20,607 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 12:39:22,428 - INFO - Connected to database.
+2024-04-30 12:40:17,049 - INFO - login_button clicked
+2024-04-30 12:40:20,659 - INFO - reports_button clicked
+2024-04-30 12:40:23,650 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 12:42:33,669 - INFO - exit_button clicked
+2024-04-30 12:51:09,193 - INFO - Succesful login, Customer ID: 1
+2024-04-30 13:06:02,227 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 13:06:03,979 - INFO - customer's top_comics values successfully listed
+2024-04-30 13:06:03,979 - INFO - Printing customer's purchased titles...
+2024-04-30 13:06:03,979 - INFO - Opening cosine similarities network graph...
+2024-04-30 13:30:12,941 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 13:30:34,794 - INFO - Connected to database.
+2024-04-30 13:31:22,095 - INFO - login_button clicked
+2024-04-30 13:31:23,079 - INFO - reports_button clicked
+2024-04-30 13:31:24,602 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 15:34:28,179 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 15:34:31,793 - INFO - Connected to database.
+2024-04-30 15:35:44,586 - INFO - login_button clicked
+2024-04-30 15:35:54,745 - INFO - reports_button clicked
+2024-04-30 15:35:58,504 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 15:36:48,312 - INFO - exit_button clicked
+2024-04-30 15:40:57,198 - INFO - Succesful login, Customer ID: 1
+2024-04-30 15:47:10,937 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 16:32:20,922 - INFO - Connected to database.
+2024-04-30 16:33:44,178 - INFO - login_button clicked
+2024-04-30 16:34:09,561 - INFO - reports_button clicked
+2024-04-30 16:34:38,869 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 16:35:39,285 - INFO - exit_button clicked
+2024-04-30 18:28:12,667 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 18:28:20,669 - INFO - Connected to database.
+2024-04-30 18:49:17,212 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 18:49:18,701 - INFO - Connected to database.
+2024-04-30 18:52:22,915 - INFO - login_button clicked
+2024-04-30 18:52:41,580 - INFO - reports_button clicked
+2024-04-30 18:53:07,495 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 18:54:32,789 - INFO - exit_button clicked
+2024-04-30 19:18:56,109 - INFO - Succesful login, Customer ID: 1
+2024-04-30 20:04:01,701 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 20:04:20,385 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 20:04:24,497 - INFO - Creating scatterplot...
+2024-04-30 20:05:00,081 - INFO - Succesful login, Customer ID: 1
+2024-04-30 20:05:00,203 - INFO - Succesful login, Customer ID: 1
+2024-04-30 20:05:06,624 - INFO - Succesful login, Customer ID: 1
+2024-04-30 20:05:06,740 - INFO - Succesful login, Customer ID: 1
+2024-04-30 20:11:48,701 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 20:11:53,517 - INFO - Connected to database.
+2024-04-30 20:12:55,331 - INFO - login_button clicked
+2024-04-30 20:13:09,029 - INFO - reports_button clicked
+2024-04-30 20:13:21,708 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 20:32:32,017 - INFO - exit_button clicked
+2024-04-30 22:04:34,338 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 22:04:42,566 - INFO - Connected to database.
+2024-04-30 22:05:24,028 - INFO - login_button clicked
+2024-04-30 22:05:27,205 - INFO - reports_button clicked
+2024-04-30 22:05:31,321 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 22:20:29,916 - INFO - exit_button clicked
+2024-04-30 22:58:10,213 - INFO - Succesful login, Customer ID: 1
+2024-04-30 23:00:26,558 - INFO - Succesful login, Customer ID: 1
+2024-04-30 23:01:46,266 - INFO - Printing recommendations (via dropdowns)...
+2024-04-30 23:01:46,320 - INFO - Creating bar chart detailing customer's top comics...
+2024-04-30 23:05:14,466 - INFO - NumExpr defaulting to 4 threads.
+2024-04-30 23:05:24,655 - INFO - Connected to database.
+2024-04-30 23:06:10,334 - INFO - login_button clicked
+2024-04-30 23:06:12,225 - INFO - reports_button clicked
+2024-04-30 23:06:14,044 - INFO - rec_similarities_scatterplot_button clicked
+2024-04-30 23:15:26,425 - INFO - exit_button clicked
+2024-05-01 11:10:21,456 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 11:10:30,030 - INFO - Connected to database.
+2024-05-01 11:12:05,770 - INFO - login_button clicked
+2024-05-01 11:12:15,061 - INFO - reports_button clicked
+2024-05-01 11:12:30,501 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 11:12:32,090 - INFO - exit_button clicked
+2024-05-01 11:20:04,637 - INFO - Succesful login, Customer ID: 1
+2024-05-01 11:30:42,732 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 11:30:48,982 - INFO - Connected to database.
+2024-05-01 11:31:48,110 - INFO - login_button clicked
+2024-05-01 11:31:56,244 - INFO - reports_button clicked
+2024-05-01 11:32:02,868 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 11:32:03,383 - INFO - exit_button clicked
+2024-05-01 12:00:28,448 - INFO - Succesful login, Customer ID: 1
+2024-05-01 12:05:07,895 - INFO - Succesful login, Customer ID: 1
+2024-05-01 12:06:02,518 - INFO - Succesful login, Customer ID: 1
+2024-05-01 12:09:59,792 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 12:10:04,397 - INFO - Connected to database.
+2024-05-01 12:10:55,004 - INFO - login_button clicked
+2024-05-01 12:10:58,783 - INFO - reports_button clicked
+2024-05-01 12:11:03,438 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 12:11:04,193 - INFO - exit_button clicked
+2024-05-01 12:51:02,304 - INFO - Succesful login, Customer ID: 1
+2024-05-01 12:58:52,342 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 12:59:02,871 - INFO - Connected to database.
+2024-05-01 13:00:00,375 - INFO - login_button clicked
+2024-05-01 13:00:04,152 - INFO - reports_button clicked
+2024-05-01 13:00:06,944 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 13:00:07,374 - INFO - exit_button clicked
+2024-05-01 13:01:19,268 - INFO - Succesful login, Customer ID: 1
+2024-05-01 14:55:41,912 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 14:56:38,239 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 14:56:40,993 - INFO - Creating scatterplot...
+2024-05-01 15:26:34,993 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 15:26:47,541 - INFO - Connected to database.
+2024-05-01 15:28:57,246 - INFO - login_button clicked
+2024-05-01 15:29:11,331 - INFO - reports_button clicked
+2024-05-01 15:29:20,193 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 15:29:21,665 - INFO - exit_button clicked
+2024-05-01 15:39:31,885 - INFO - login_button clicked
+2024-05-01 15:58:28,789 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 15:58:42,840 - INFO - Connected to database.
+2024-05-01 16:00:07,386 - INFO - login_button clicked
+2024-05-01 16:04:59,595 - INFO - login_button clicked
+2024-05-01 16:05:06,796 - INFO - login_button clicked
+2024-05-01 16:05:07,862 - INFO - reports_button clicked
+2024-05-01 16:05:09,242 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 16:05:09,820 - INFO - exit_button clicked
+2024-05-01 16:05:42,094 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:05:42,294 - ERROR - An error has occurred: name 'login_called' is not defined
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_17308\173552181.py", line 56, in login
+    login_called.flag = True
+    ^^^^^^^^^^^^
+NameError: name 'login_called' is not defined
+2024-05-01 16:05:42,294 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:05:42,373 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:08:46,323 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:08:46,424 - ERROR - An error has occurred: name 'login_called' is not defined
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_17308\173552181.py", line 56, in login
+    login_called.flag = True
+    ^^^^^^^^^^^^
+NameError: name 'login_called' is not defined
+2024-05-01 16:08:46,424 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:08:46,524 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:22:26,976 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:22:27,076 - ERROR - An error has occurred: name 'login_called' is not defined
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_17308\173552181.py", line 56, in login
+    login_called.flag = True
+    ^^^^^^^^^^^^
+NameError: name 'login_called' is not defined
+2024-05-01 16:22:27,107 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:22:27,223 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:23:37,267 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:23:37,367 - ERROR - An error has occurred: name 'login_called' is not defined
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_17308\173552181.py", line 56, in login
+    login_called.flag = True
+    ^^^^^^^^^^^^
+NameError: name 'login_called' is not defined
+2024-05-01 16:23:37,367 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:23:37,468 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:28:58,211 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 16:29:07,968 - INFO - Connected to database.
+2024-05-01 16:30:13,261 - INFO - login_button clicked
+2024-05-01 16:30:23,604 - INFO - reports_button clicked
+2024-05-01 16:30:30,127 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 16:30:32,497 - INFO - exit_button clicked
+2024-05-01 16:33:05,223 - INFO - Succesful login, Customer ID: 1
+2024-05-01 16:43:58,893 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-01 16:44:08,368 - INFO - customer's top_comics values successfully listed
+2024-05-01 16:44:08,368 - INFO - Printing customer's purchased titles...
+2024-05-01 16:44:08,368 - INFO - Opening cosine similarities network graph...
+2024-05-01 16:44:50,479 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 16:45:05,043 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 16:45:14,265 - INFO - Creating scatterplot...
+2024-05-01 16:51:39,609 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 17:38:05,035 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 17:38:16,453 - INFO - Connected to database.
+2024-05-01 17:39:43,276 - INFO - login_button clicked
+2024-05-01 17:40:00,069 - INFO - reports_button clicked
+2024-05-01 17:40:06,667 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 17:40:08,237 - INFO - exit_button clicked
+2024-05-01 18:17:51,249 - INFO - login_button clicked
+2024-05-01 18:18:21,159 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:18:21,391 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:20:38,301 - INFO - login_button clicked
+2024-05-01 18:20:48,443 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:20:48,543 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:20:48,627 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:27:50,241 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 18:27:56,951 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 18:28:01,810 - INFO - Creating scatterplot...
+2024-05-01 18:33:40,269 - INFO - NumExpr defaulting to 4 threads.
+2024-05-01 18:33:51,887 - INFO - Connected to database.
+2024-05-01 18:37:08,775 - INFO - login_button clicked
+2024-05-01 18:37:31,789 - INFO - reports_button clicked
+2024-05-01 18:37:46,410 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-01 18:37:50,852 - INFO - exit_button clicked
+2024-05-01 18:41:27,062 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:47:28,981 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:49:08,450 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:54:01,540 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:58:25,045 - INFO - Succesful login, Customer ID: 1
+2024-05-01 18:59:42,436 - INFO - Succesful login, Customer ID: 1
+2024-05-01 19:05:17,468 - INFO - Succesful login, Customer ID: 1
+2024-05-01 19:13:30,583 - INFO - Succesful login, Customer ID: 1
+2024-05-01 19:13:30,696 - INFO - Succesful login, Customer ID: 1
+2024-05-01 19:13:34,154 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-01 19:13:48,293 - INFO - customer's top_comics values successfully listed
+2024-05-01 19:13:48,293 - INFO - Printing customer's purchased titles...
+2024-05-01 19:13:48,293 - INFO - Opening cosine similarities network graph...
+2024-05-01 19:13:48,306 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-01 19:13:48,584 - INFO - customer's top_comics values successfully listed
+2024-05-01 19:13:48,584 - INFO - Printing customer's purchased titles...
+2024-05-01 19:13:48,584 - INFO - Opening cosine similarities network graph...
+2024-05-01 19:14:59,536 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 19:15:19,861 - INFO - Printing recommendations (via dropdowns)...
+2024-05-01 19:15:29,601 - INFO - Creating scatterplot...
+2024-05-02 12:21:48,771 - INFO - NumExpr defaulting to 4 threads.
+2024-05-02 12:21:57,209 - INFO - Connected to database.
+2024-05-02 13:06:45,190 - INFO - NumExpr defaulting to 4 threads.
+2024-05-02 13:06:49,100 - INFO - Connected to database.
+2024-05-02 14:31:05,761 - INFO - Connected to database.
+2024-05-02 16:28:49,028 - INFO - NumExpr defaulting to 4 threads.
+2024-05-02 16:29:14,857 - INFO - Connected to database.
+2024-05-02 16:45:58,104 - INFO - NumExpr defaulting to 4 threads.
+2024-05-02 16:46:01,027 - INFO - Connected to database.
+2024-05-02 18:35:18,668 - INFO - Connected to database.
+2024-05-02 18:39:44,130 - INFO - login_button clicked
+2024-05-02 18:40:43,515 - INFO - reports_button clicked
+2024-05-02 18:40:59,913 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-02 18:41:07,297 - INFO - exit_button clicked
+2024-05-02 18:48:24,496 - INFO - Succesful login, Customer ID: 1
+2024-05-02 18:49:16,086 - INFO - Succesful login, Customer ID: 1
+2024-05-02 18:49:16,186 - INFO - Succesful login, Customer ID: 1
+2024-05-03 18:48:24,024 - INFO - NumExpr defaulting to 4 threads.
+2024-05-03 18:48:56,852 - INFO - NumExpr defaulting to 4 threads.
+2024-05-03 18:49:11,165 - INFO - Connected to database.
+2024-05-03 19:00:58,481 - INFO - login_button clicked
+2024-05-03 19:01:17,609 - INFO - reports_button clicked
+2024-05-03 19:01:39,131 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-03 19:01:44,419 - INFO - exit_button clicked
+2024-05-03 19:08:40,104 - INFO - Succesful login, Customer ID: 1
+2024-05-03 19:11:34,189 - INFO - Succesful login, Customer ID: 1
+2024-05-03 19:13:29,014 - INFO - login_button clicked
+2024-05-03 19:19:46,073 - INFO - login_button clicked
+2024-05-03 19:19:55,151 - INFO - Succesful login, Customer ID: 1
+2024-05-03 19:19:55,283 - INFO - Succesful login, Customer ID: 1
+2024-05-03 19:25:51,587 - INFO - Connected to database.
+2024-05-03 19:26:38,901 - INFO - login_button clicked
+2024-05-03 19:26:39,702 - INFO - reports_button clicked
+2024-05-03 19:26:41,460 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-03 19:26:42,109 - INFO - exit_button clicked
+2024-05-03 19:27:33,323 - INFO - Succesful login, Customer ID: 1
+2024-05-03 19:44:36,245 - INFO - Succesful login, Customer ID: 1
+2024-05-03 20:04:01,120 - INFO - Succesful login, Customer ID: 1
+2024-05-03 20:18:01,005 - INFO - NumExpr defaulting to 4 threads.
+2024-05-03 20:18:17,006 - INFO - Connected to database.
+2024-05-03 21:17:53,323 - INFO - NumExpr defaulting to 4 threads.
+2024-05-03 21:18:06,440 - INFO - Connected to database.
+2024-05-03 21:18:58,564 - INFO - login_button clicked
+2024-05-03 21:19:03,106 - INFO - reports_button clicked
+2024-05-03 21:19:07,031 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-03 21:19:09,491 - INFO - exit_button clicked
+2024-05-03 21:22:38,652 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:24:46,808 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:30:15,155 - INFO - NumExpr defaulting to 4 threads.
+2024-05-03 21:30:28,520 - INFO - Connected to database.
+2024-05-03 21:31:14,137 - INFO - login_button clicked
+2024-05-03 21:31:15,057 - INFO - reports_button clicked
+2024-05-03 21:31:16,331 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-03 21:31:17,034 - INFO - exit_button clicked
+2024-05-03 21:32:54,035 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:21,647 - INFO - login_button clicked
+2024-05-03 21:35:31,002 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:31,118 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:50,424 - INFO - login_button clicked
+2024-05-03 21:35:53,663 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:53,785 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:53,863 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:53,964 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:54,033 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:35:54,117 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:37:35,477 - INFO - login_button clicked
+2024-05-03 21:38:47,468 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:38:47,568 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:38:47,652 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:38:47,731 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:39:38,742 - INFO - login_button clicked
+2024-05-03 21:39:43,322 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:39:43,453 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:39:43,538 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:39:43,623 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:39:43,692 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:01,671 - INFO - login_button clicked
+2024-05-03 21:40:21,927 - INFO - login_button clicked
+2024-05-03 21:40:34,221 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:34,321 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:34,422 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:34,491 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:34,584 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:34,669 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:34,754 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,342 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,426 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,527 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,611 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,712 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,812 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,897 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:36,997 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:37,075 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:37,160 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:37,244 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:37,329 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:37,429 - INFO - Succesful login, Customer ID: 1
+2024-05-03 21:40:37,514 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:01:13,554 - INFO - Connected to database.
+2024-05-04 19:02:22,289 - INFO - login_button clicked
+2024-05-04 19:02:26,823 - INFO - reports_button clicked
+2024-05-04 19:02:30,264 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-04 19:02:31,196 - INFO - exit_button clicked
+2024-05-04 19:03:58,057 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:16:59,321 - INFO - NumExpr defaulting to 4 threads.
+2024-05-04 19:17:13,342 - INFO - Connected to database.
+2024-05-04 19:18:01,186 - INFO - login_button clicked
+2024-05-04 19:18:01,881 - INFO - reports_button clicked
+2024-05-04 19:18:03,068 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-04 19:18:03,445 - INFO - exit_button clicked
+2024-05-04 19:18:42,029 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:18:42,044 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:20:51,202 - INFO - login_button clicked
+2024-05-04 19:21:01,111 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:21:01,126 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:21:01,164 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:21:01,180 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\595504318.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:22:01,950 - INFO - login_button clicked
+2024-05-04 19:22:13,117 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:22:13,137 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:22:13,142 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:22:13,157 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\595504318.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:22:13,162 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:22:13,177 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\205999566.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:23:47,399 - INFO - login_button clicked
+2024-05-04 19:23:55,356 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:23:55,372 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:23:55,387 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:23:55,403 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\595504318.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:23:55,403 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:23:55,418 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\205999566.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:23:55,418 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:23:55,456 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2178649577.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:03,079 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:03,094 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:03,094 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:03,110 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\595504318.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:03,126 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:03,141 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\205999566.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:03,141 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:03,157 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2178649577.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:21,120 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:21,136 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:21,136 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:21,151 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\595504318.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:21,167 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:21,183 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\205999566.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:24:21,183 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:24:21,198 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2178649577.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:25:44,977 - INFO - login_button clicked
+2024-05-04 19:25:53,066 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:25:53,097 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2088770284.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:25:53,097 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:25:53,112 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\595504318.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:25:53,112 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:25:53,128 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\205999566.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:25:53,128 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:25:53,150 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2178649577.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:25:53,150 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:25:53,166 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_22416\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:26:22,214 - INFO - NumExpr defaulting to 4 threads.
+2024-05-04 19:26:24,959 - INFO - Connected to database.
+2024-05-04 19:27:02,892 - INFO - login_button clicked
+2024-05-04 19:27:03,486 - INFO - reports_button clicked
+2024-05-04 19:27:04,696 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-04 19:27:05,097 - INFO - exit_button clicked
+2024-05-04 19:27:24,423 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:27:24,446 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_23448\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:28:53,259 - INFO - Connected to database.
+2024-05-04 19:29:37,984 - INFO - login_button clicked
+2024-05-04 19:33:46,619 - INFO - login_button clicked
+2024-05-04 19:33:47,252 - INFO - reports_button clicked
+2024-05-04 19:33:48,439 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-04 19:33:48,756 - INFO - exit_button clicked
+2024-05-04 19:34:11,173 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:34:11,189 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:34:52,724 - INFO - login_button clicked
+2024-05-04 19:35:00,697 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:35:00,713 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:35:00,713 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:35:00,729 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:35:26,853 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:35:26,869 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:35:26,869 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:35:26,884 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:47,180 - INFO - login_button clicked
+2024-05-04 19:39:55,103 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:55,118 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:55,118 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:55,134 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:55,134 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:55,149 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:55,203 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:55,218 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:55,218 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:55,234 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:55,234 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:55,250 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:56,854 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:56,869 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:56,869 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:56,885 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:56,885 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:56,900 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:56,969 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:56,985 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:56,985 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:57,001 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:39:57,001 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:39:57,007 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:35,405 - INFO - login_button clicked
+2024-05-04 19:40:40,921 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:40,933 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:40,943 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:40,953 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:40,961 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:40,973 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:40,973 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:40,993 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:42,951 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:42,961 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:42,969 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:42,981 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:42,981 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:42,991 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:43,031 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:43,041 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:43,071 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:43,081 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:43,081 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:43,102 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:43,102 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:43,112 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:40:43,122 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:40:43,132 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:49:16,553 - INFO - login_button clicked
+2024-05-04 19:49:36,308 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:49:36,324 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:49:36,324 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:49:36,339 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:49:36,339 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:49:36,361 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:49:36,361 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:49:36,377 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:49:36,377 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:50:29,678 - INFO - login_button clicked
+2024-05-04 19:50:40,127 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:50:40,142 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:50:40,158 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:50:40,158 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:50:40,174 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:50:40,189 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:50:40,189 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:50:40,205 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 19:50:40,205 - INFO - Succesful login, Customer ID: 1
+2024-05-04 19:50:40,327 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:05,034 - INFO - login_button clicked
+2024-05-04 20:00:10,046 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:10,061 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:00:10,061 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:10,077 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:00:10,093 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:10,093 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:00:10,108 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:10,124 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:00:10,124 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:10,246 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:00:10,324 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:17,428 - INFO - login_button clicked
+2024-05-04 20:07:22,157 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,173 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:07:22,173 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,189 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\1063862542.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:07:22,189 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,204 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\2877200611.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:07:22,220 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,220 - ERROR - An error has occurred: 'Output' object has no attribute 'clearoutput'
+Traceback (most recent call last):
+  File "C:\Users\exocu\AppData\Local\Temp\ipykernel_18708\4189182837.py", line 46, in login
+    output_box_1.clearoutput()
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Output' object has no attribute 'clearoutput'
+2024-05-04 20:07:22,235 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,320 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,389 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:07:22,474 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:09:06,300 - INFO - login_button clicked
+2024-05-04 20:10:15,560 - INFO - NumExpr defaulting to 4 threads.
+2024-05-04 20:10:17,752 - INFO - Connected to database.
+2024-05-04 20:11:04,549 - INFO - login_button clicked
+2024-05-04 20:11:09,181 - INFO - reports_button clicked
+2024-05-04 20:11:12,963 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-04 20:11:15,418 - INFO - exit_button clicked
+2024-05-04 20:12:48,596 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:14:34,575 - INFO - Succesful login, Customer ID: 1
+2024-05-04 20:19:55,430 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-04 20:19:58,608 - INFO - customer's top_comics values successfully listed
+2024-05-04 20:19:58,624 - INFO - Printing customer's purchased titles...
+2024-05-04 20:19:58,624 - INFO - Opening cosine similarities network graph...
+2024-05-04 23:00:32,875 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:01:21,689 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:01:44,667 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:02:13,696 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:02:22,806 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:02:36,982 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:02:40,852 - INFO - Creating scatterplot...
+2024-05-04 23:03:16,158 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:03:26,003 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:03:29,597 - INFO - Creating scatterplot...
+2024-05-04 23:03:40,927 - INFO - Printing recommendations (via dropdowns)...
+2024-05-04 23:03:46,976 - INFO - Creating scatterplot...
+2024-05-04 23:18:33,981 - INFO - Succesful login, Customer ID: 2
+2024-05-04 23:25:59,239 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-04 23:28:17,272 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-04 23:28:18,019 - INFO - customer's top_comics values successfully listed
+2024-05-04 23:28:18,020 - INFO - Printing customer's purchased titles...
+2024-05-04 23:28:18,020 - INFO - Opening cosine similarities network graph...
+2024-05-05 00:04:49,246 - INFO - Printing recommendations (via search_box)...
+2024-05-05 00:05:45,915 - INFO - Printing recommendations (via search_box)...
+2024-05-05 00:05:46,005 - INFO - Printing recommendations (via search_box)...
+2024-05-05 00:07:21,610 - INFO - Printing recommendations (via search_box)...
+2024-05-05 00:08:30,220 - INFO - Creating scatterplot...
+2024-05-05 00:12:40,238 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 00:12:54,426 - INFO - Connected to database.
+2024-05-05 00:14:31,359 - INFO - login_button clicked
+2024-05-05 00:14:41,256 - INFO - reports_button clicked
+2024-05-05 00:14:44,925 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 00:14:46,848 - INFO - exit_button clicked
+2024-05-05 00:20:09,998 - INFO - Succesful login, Customer ID: 14
+2024-05-05 00:20:56,879 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-05 00:21:06,265 - INFO - customer's top_comics values successfully listed
+2024-05-05 00:21:06,265 - INFO - Printing customer's purchased titles...
+2024-05-05 00:23:36,828 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 00:24:16,791 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 00:24:20,084 - INFO - Creating scatterplot...
+2024-05-05 00:29:57,733 - INFO - exit_button clicked
+2024-05-05 00:30:18,322 - INFO - Succesful login, Customer ID: 14
+2024-05-05 00:30:57,677 - INFO - exit_button clicked
+2024-05-05 00:31:15,731 - INFO - Succesful login, Customer ID: 14
+2024-05-05 00:36:46,625 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 00:36:52,473 - INFO - Connected to database.
+2024-05-05 00:37:50,311 - INFO - login_button clicked
+2024-05-05 00:37:57,276 - INFO - reports_button clicked
+2024-05-05 00:38:05,064 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 00:38:06,144 - INFO - exit_button clicked
+2024-05-05 00:59:07,376 - INFO - Succesful login, Customer ID: 51
+2024-05-05 01:09:19,715 - INFO - Succesful login, Customer ID: 51
+2024-05-05 01:10:32,813 - INFO - Succesful login, Customer ID: 51
+2024-05-05 01:12:09,787 - INFO - Succesful login, Customer ID: 51
+2024-05-05 01:13:46,418 - INFO - Succesful login, Customer ID: 51
+2024-05-05 08:54:58,451 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 08:55:06,440 - INFO - Connected to database.
+2024-05-05 08:58:01,496 - INFO - login_button clicked
+2024-05-05 08:58:32,506 - INFO - reports_button clicked
+2024-05-05 08:59:09,245 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 08:59:14,510 - INFO - exit_button clicked
+2024-05-05 09:08:16,934 - INFO - Succesful login, Customer ID: 51
+2024-05-05 09:30:35,653 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 09:30:45,049 - INFO - Connected to database.
+2024-05-05 09:31:25,476 - INFO - login_button clicked
+2024-05-05 09:31:26,377 - INFO - reports_button clicked
+2024-05-05 09:31:34,621 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 09:31:35,524 - INFO - exit_button clicked
+2024-05-05 09:53:39,702 - INFO - Succesful login, Customer ID: 79
+2024-05-05 09:54:31,232 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-05 09:54:34,588 - INFO - customer's top_comics values successfully listed
+2024-05-05 09:54:34,588 - INFO - Printing customer's purchased titles...
+2024-05-05 09:56:34,521 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 09:56:47,244 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 09:56:52,784 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 09:56:55,407 - INFO - Creating scatterplot...
+2024-05-05 09:59:58,251 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 10:00:00,858 - INFO - Creating scatterplot...
+2024-05-05 11:10:36,610 - INFO - Succesful login, Customer ID: 73
+2024-05-05 11:11:08,275 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-05 11:11:08,529 - INFO - customer's top_comics values successfully listed
+2024-05-05 11:11:08,529 - INFO - Printing customer's purchased titles...
+2024-05-05 11:11:59,566 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 11:12:09,942 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 11:12:23,046 - INFO - Creating scatterplot...
+2024-05-05 13:24:00,094 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 13:24:18,142 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:24:21,881 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:24:26,044 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:24:38,992 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:24:49,071 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:24:52,465 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:24:57,309 - INFO - Creating scatterplot...
+2024-05-05 13:24:59,478 - INFO - Creating scatterplot...
+2024-05-05 13:35:09,782 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 13:35:39,972 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:35:44,927 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:35:46,680 - INFO - Creating scatterplot...
+2024-05-05 13:35:47,436 - INFO - Creating scatterplot...
+2024-05-05 13:35:48,892 - INFO - Creating scatterplot...
+2024-05-05 13:36:14,275 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 13:36:24,517 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:36:36,623 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:36:40,594 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 13:36:42,369 - INFO - Creating scatterplot...
+2024-05-05 13:36:43,056 - INFO - Creating scatterplot...
+2024-05-05 13:36:43,856 - INFO - Creating scatterplot...
+2024-05-05 13:36:44,845 - INFO - Creating scatterplot...
+2024-05-05 13:38:21,395 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 13:41:43,792 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 13:42:00,650 - INFO - Connected to database.
+2024-05-05 14:40:15,381 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 14:40:23,676 - INFO - Connected to database.
+2024-05-05 14:41:32,505 - INFO - login_button clicked
+2024-05-05 14:41:37,242 - INFO - reports_button clicked
+2024-05-05 14:41:45,608 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 14:41:47,033 - INFO - exit_button clicked
+2024-05-05 14:44:09,973 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 14:44:16,621 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 14:44:31,899 - INFO - Creating scatterplot...
+2024-05-05 14:53:18,318 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 14:53:24,405 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 14:53:40,810 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 14:53:47,966 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 14:53:58,542 - INFO - Creating scatterplot...
+2024-05-05 14:53:59,045 - INFO - Creating scatterplot...
+2024-05-05 15:01:20,083 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:01:28,039 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:01:32,020 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:01:42,442 - INFO - Creating scatterplot...
+2024-05-05 15:01:42,975 - INFO - Creating scatterplot...
+2024-05-05 15:01:43,786 - INFO - Creating scatterplot...
+2024-05-05 15:02:58,829 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:03:23,292 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:03:26,186 - INFO - Creating scatterplot...
+2024-05-05 15:03:26,819 - INFO - Creating scatterplot...
+2024-05-05 15:03:27,803 - INFO - Creating scatterplot...
+2024-05-05 15:05:26,441 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:05:35,441 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:05:37,731 - INFO - Creating scatterplot...
+2024-05-05 15:05:38,264 - INFO - Creating scatterplot...
+2024-05-05 15:05:39,034 - INFO - Creating scatterplot...
+2024-05-05 15:35:27,915 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:35:39,061 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:35:52,509 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:35:54,956 - INFO - Creating scatterplot...
+2024-05-05 15:35:55,442 - INFO - Creating scatterplot...
+2024-05-05 15:35:56,282 - INFO - Creating scatterplot...
+2024-05-05 15:35:57,189 - INFO - Creating scatterplot...
+2024-05-05 15:40:28,609 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 15:40:39,089 - INFO - Connected to database.
+2024-05-05 15:42:25,777 - INFO - login_button clicked
+2024-05-05 15:42:35,367 - INFO - reports_button clicked
+2024-05-05 15:42:43,796 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:42:44,446 - INFO - exit_button clicked
+2024-05-05 15:48:12,158 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:48:15,537 - INFO - Creating scatterplot...
+2024-05-05 15:51:52,060 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:52:20,392 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:52:25,462 - INFO - Creating scatterplot...
+2024-05-05 15:52:25,732 - INFO - Creating scatterplot...
+2024-05-05 15:53:27,833 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:53:50,332 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:53:55,586 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:53:58,078 - INFO - Creating scatterplot...
+2024-05-05 15:53:58,194 - INFO - Creating scatterplot...
+2024-05-05 15:53:58,257 - INFO - Creating scatterplot...
+2024-05-05 15:57:41,140 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:58:04,680 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:58:08,858 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:58:11,080 - INFO - Creating scatterplot...
+2024-05-05 15:58:11,196 - INFO - Creating scatterplot...
+2024-05-05 15:58:11,243 - INFO - Creating scatterplot...
+2024-05-05 15:58:11,312 - INFO - Creating scatterplot...
+2024-05-05 15:59:16,096 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 15:59:27,346 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:59:35,479 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 15:59:37,971 - INFO - Creating scatterplot...
+2024-05-05 15:59:38,520 - INFO - Creating scatterplot...
+2024-05-05 15:59:39,391 - INFO - Creating scatterplot...
+2024-05-05 15:59:40,285 - INFO - Creating scatterplot...
+2024-05-05 15:59:41,069 - INFO - Creating scatterplot...
+2024-05-05 16:06:13,735 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:06:24,213 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:06:36,745 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:06:39,937 - INFO - Creating scatterplot...
+2024-05-05 16:06:40,623 - INFO - Creating scatterplot...
+2024-05-05 16:06:41,451 - INFO - Creating scatterplot...
+2024-05-05 16:06:42,262 - INFO - Creating scatterplot...
+2024-05-05 16:06:43,109 - INFO - Creating scatterplot...
+2024-05-05 16:06:43,915 - INFO - Creating scatterplot...
+2024-05-05 16:08:05,834 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:08:44,195 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:08:51,999 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:08:54,751 - INFO - Creating scatterplot...
+2024-05-05 16:08:55,256 - INFO - Creating scatterplot...
+2024-05-05 16:08:56,119 - INFO - Creating scatterplot...
+2024-05-05 16:08:56,886 - INFO - Creating scatterplot...
+2024-05-05 16:08:57,710 - INFO - Creating scatterplot...
+2024-05-05 16:08:58,539 - INFO - Creating scatterplot...
+2024-05-05 16:08:59,368 - INFO - Creating scatterplot...
+2024-05-05 16:15:21,643 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:15:34,850 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:15:39,115 - INFO - Creating scatterplot...
+2024-05-05 16:15:39,648 - INFO - Creating scatterplot...
+2024-05-05 16:15:40,435 - INFO - Creating scatterplot...
+2024-05-05 16:15:41,184 - INFO - Creating scatterplot...
+2024-05-05 16:15:42,012 - INFO - Creating scatterplot...
+2024-05-05 16:15:42,864 - INFO - Creating scatterplot...
+2024-05-05 16:15:43,798 - INFO - Creating scatterplot...
+2024-05-05 16:15:44,757 - INFO - Creating scatterplot...
+2024-05-05 16:16:36,205 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:16:46,852 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:17:10,243 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:17:12,418 - INFO - Creating scatterplot...
+2024-05-05 16:17:12,919 - INFO - Creating scatterplot...
+2024-05-05 16:17:13,754 - INFO - Creating scatterplot...
+2024-05-05 16:17:14,594 - INFO - Creating scatterplot...
+2024-05-05 16:17:15,431 - INFO - Creating scatterplot...
+2024-05-05 16:17:16,279 - INFO - Creating scatterplot...
+2024-05-05 16:17:17,081 - INFO - Creating scatterplot...
+2024-05-05 16:17:17,869 - INFO - Creating scatterplot...
+2024-05-05 16:17:18,720 - INFO - Creating scatterplot...
+2024-05-05 16:18:31,496 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:18:41,874 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:18:51,764 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:18:55,319 - INFO - Creating scatterplot...
+2024-05-05 16:18:55,970 - INFO - Creating scatterplot...
+2024-05-05 16:18:56,352 - INFO - Creating scatterplot...
+2024-05-05 16:18:57,410 - INFO - Creating scatterplot...
+2024-05-05 16:18:58,351 - INFO - Creating scatterplot...
+2024-05-05 16:18:59,240 - INFO - Creating scatterplot...
+2024-05-05 16:19:00,076 - INFO - Creating scatterplot...
+2024-05-05 16:19:01,026 - INFO - Creating scatterplot...
+2024-05-05 16:19:02,007 - INFO - Creating scatterplot...
+2024-05-05 16:19:02,775 - INFO - Creating scatterplot...
+2024-05-05 16:20:15,531 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:20:25,820 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:20:30,488 - INFO - Creating scatterplot...
+2024-05-05 16:20:34,230 - INFO - Creating scatterplot...
+2024-05-05 16:20:34,546 - INFO - Creating scatterplot...
+2024-05-05 16:20:34,847 - INFO - Creating scatterplot...
+2024-05-05 16:20:35,148 - INFO - Creating scatterplot...
+2024-05-05 16:20:35,502 - INFO - Creating scatterplot...
+2024-05-05 16:20:35,834 - INFO - Creating scatterplot...
+2024-05-05 16:20:36,135 - INFO - Creating scatterplot...
+2024-05-05 16:20:36,473 - INFO - Creating scatterplot...
+2024-05-05 16:20:36,837 - INFO - Creating scatterplot...
+2024-05-05 16:20:37,175 - INFO - Creating scatterplot...
+2024-05-05 16:24:51,802 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 16:25:04,613 - INFO - Connected to database.
+2024-05-05 16:26:16,007 - INFO - login_button clicked
+2024-05-05 16:26:19,470 - INFO - reports_button clicked
+2024-05-05 16:26:26,303 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:26:26,788 - INFO - exit_button clicked
+2024-05-05 16:28:17,351 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:28:41,720 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:28:44,143 - INFO - Creating scatterplot...
+2024-05-05 16:32:37,481 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 16:32:44,702 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 16:32:46,354 - INFO - Creating scatterplot...
+2024-05-05 16:32:47,009 - INFO - Creating scatterplot...
+2024-05-05 17:20:42,341 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 17:20:53,855 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:20:56,943 - INFO - Creating scatterplot...
+2024-05-05 17:20:57,583 - INFO - Creating scatterplot...
+2024-05-05 17:20:58,471 - INFO - Creating scatterplot...
+2024-05-05 17:25:57,353 - INFO - NumExpr defaulting to 4 threads.
+2024-05-05 17:26:07,435 - INFO - Connected to database.
+2024-05-05 17:26:59,440 - INFO - login_button clicked
+2024-05-05 17:27:00,988 - INFO - reports_button clicked
+2024-05-05 17:27:03,294 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-05 17:27:03,611 - INFO - exit_button clicked
+2024-05-05 17:28:22,175 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:28:30,213 - INFO - Creating scatterplot...
+2024-05-05 17:29:35,055 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:29:38,075 - INFO - Creating scatterplot...
+2024-05-05 17:29:52,453 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:30:01,904 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:30:03,962 - INFO - Creating scatterplot...
+2024-05-05 17:30:53,414 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:30:58,596 - INFO - Creating scatterplot...
+2024-05-05 17:31:09,481 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:31:10,752 - INFO - Creating scatterplot...
+2024-05-05 17:31:29,518 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:31:31,176 - INFO - Creating scatterplot...
+2024-05-05 17:31:39,413 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:31:44,228 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:31:45,863 - INFO - Creating scatterplot...
+2024-05-05 17:32:06,173 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:32:24,940 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:33:06,553 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:33:08,231 - INFO - Creating scatterplot...
+2024-05-05 17:33:33,467 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:33:35,103 - INFO - Creating scatterplot...
+2024-05-05 17:33:59,489 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:34:02,313 - INFO - Creating scatterplot...
+2024-05-05 17:34:09,452 - INFO - Printing recommendations (via dropdowns)...
+2024-05-05 17:34:11,921 - INFO - Creating scatterplot...
+2024-05-06 12:53:57,932 - INFO - Printing recommendations (via dropdowns)...
+2024-05-06 12:54:01,130 - INFO - Printing recommendations (via dropdowns)...
+2024-05-06 12:54:02,308 - INFO - Creating scatterplot...
+2024-05-06 12:55:06,265 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-06 12:55:18,133 - INFO - Printing recommendations (via dropdowns)...
+2024-05-06 12:55:27,916 - INFO - Printing recommendations (via dropdowns)...
+2024-05-06 12:55:30,996 - INFO - Creating scatterplot...
+2024-05-06 12:55:31,776 - INFO - Creating scatterplot...
+2024-05-06 13:07:59,393 - INFO - NumExpr defaulting to 4 threads.
+2024-05-06 13:08:14,177 - INFO - Connected to database.
+2024-05-06 13:09:40,681 - INFO - login_button clicked
+2024-05-06 13:09:48,434 - INFO - reports_button clicked
+2024-05-06 13:09:55,510 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-06 13:09:56,138 - INFO - exit_button clicked
+2024-05-06 13:14:18,987 - INFO - Succesful login, Customer ID: 14
+2024-05-06 13:15:54,867 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-06 13:16:04,476 - INFO - customer's top_comics values successfully listed
+2024-05-06 13:16:04,476 - INFO - Printing customer's purchased titles...
+2024-05-06 13:51:15,500 - INFO - NumExpr defaulting to 4 threads.
+2024-05-06 13:52:30,094 - INFO - Connected to database.
+2024-05-06 13:55:28,422 - INFO - login_button clicked
+2024-05-06 13:55:46,666 - INFO - reports_button clicked
+2024-05-06 13:56:37,105 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-06 13:56:40,591 - INFO - exit_button clicked
+2024-05-06 14:07:25,179 - INFO - Connected to database.
+2024-05-06 14:14:26,280 - INFO - login_button clicked
+2024-05-06 14:15:00,134 - INFO - reports_button clicked
+2024-05-06 14:15:27,763 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-06 14:15:29,922 - INFO - exit_button clicked
+2024-05-06 15:27:31,632 - INFO - NumExpr defaulting to 4 threads.
+2024-05-06 15:28:07,467 - INFO - Connected to database.
+2024-05-06 15:42:00,948 - INFO - login_button clicked
+2024-05-06 15:42:28,711 - INFO - reports_button clicked
+2024-05-06 15:43:26,659 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-06 15:43:29,450 - INFO - exit_button clicked
+2024-05-06 16:40:54,256 - INFO - NumExpr defaulting to 4 threads.
+2024-05-06 16:41:08,682 - INFO - Connected to database.
+2024-05-06 16:42:01,813 - INFO - login_button clicked
+2024-05-06 16:42:07,288 - INFO - reports_button clicked
+2024-05-06 16:42:10,838 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-06 16:42:14,409 - INFO - exit_button clicked
+2024-05-07 07:14:34,352 - INFO - Succesful login, Customer ID: 1
+2024-05-07 07:16:02,930 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-07 07:16:08,698 - INFO - customer's top_comics values successfully listed
+2024-05-07 07:16:08,698 - INFO - Printing customer's purchased titles...
+2024-05-07 07:20:03,155 - INFO - Printing recommendations (via search_box)...
+2024-05-07 07:20:37,267 - INFO - Printing recommendations (via search_box)...
+2024-05-07 07:20:38,054 - INFO - Printing recommendations (via search_box)...
+2024-05-07 07:22:11,039 - INFO - Printing recommendations (via search_box)...
+2024-05-07 07:23:12,048 - INFO - Creating scatterplot...
+2024-05-07 07:26:30,364 - INFO - Printing recommendations (via dropdowns)...
+2024-05-07 07:26:40,854 - INFO - Creating scatterplot...
+2024-05-07 09:10:10,891 - INFO - Printing recommendations (via dropdowns)...
+2024-05-07 09:10:36,717 - INFO - Printing recommendations (via dropdowns)...
+2024-05-07 09:12:44,572 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:13:17,227 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:13:17,418 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:14:50,849 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:15:51,276 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:17:22,607 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:17:22,685 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:18:54,262 - INFO - Printing recommendations (via search_box)...
+2024-05-07 09:19:42,803 - INFO - Creating scatterplot...
+2024-05-07 09:21:51,278 - INFO - Succesful login, Customer ID: 1
+2024-05-07 09:23:37,966 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-07 09:23:38,299 - INFO - customer's top_comics values successfully listed
+2024-05-07 09:23:38,299 - INFO - Printing customer's purchased titles...
+2024-05-07 09:38:26,180 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 09:38:51,654 - INFO - Connected to database.
+2024-05-07 09:39:31,705 - INFO - login_button clicked
+2024-05-07 09:39:36,236 - INFO - reports_button clicked
+2024-05-07 09:39:40,421 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 09:39:41,894 - INFO - exit_button clicked
+2024-05-07 09:47:42,650 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 09:47:53,943 - INFO - Connected to database.
+2024-05-07 09:48:39,997 - INFO - login_button clicked
+2024-05-07 09:48:41,023 - INFO - reports_button clicked
+2024-05-07 09:48:41,940 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 09:48:42,257 - INFO - exit_button clicked
+2024-05-07 10:04:19,369 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 10:05:16,804 - INFO - Connected to database.
+2024-05-07 10:06:01,989 - INFO - login_button clicked
+2024-05-07 10:06:02,863 - INFO - reports_button clicked
+2024-05-07 10:06:04,256 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 10:06:04,750 - INFO - exit_button clicked
+2024-05-07 11:02:45,465 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 11:03:12,093 - INFO - Connected to database.
+2024-05-07 15:43:45,394 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 15:44:33,091 - INFO - Connected to database.
+2024-05-07 15:46:48,473 - INFO - login_button clicked
+2024-05-07 15:46:49,206 - INFO - reports_button clicked
+2024-05-07 15:46:50,863 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 15:46:51,364 - INFO - exit_button clicked
+2024-05-07 16:41:29,156 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 16:41:48,156 - INFO - Connected to database.
+2024-05-07 16:45:08,714 - INFO - login_button clicked
+2024-05-07 16:45:11,282 - INFO - reports_button clicked
+2024-05-07 16:45:13,800 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 16:45:14,424 - INFO - exit_button clicked
+2024-05-07 18:07:00,189 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 18:07:40,287 - INFO - Connected to database.
+2024-05-07 18:09:40,059 - INFO - login_button clicked
+2024-05-07 18:09:40,592 - INFO - reports_button clicked
+2024-05-07 18:09:41,976 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 18:09:42,281 - INFO - exit_button clicked
+2024-05-07 18:24:23,698 - INFO - Succesful login, Customer ID: 30
+2024-05-07 18:34:42,892 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 18:34:51,452 - INFO - Connected to database.
+2024-05-07 18:45:09,489 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 18:45:17,250 - INFO - Connected to database.
+2024-05-07 18:56:21,985 - INFO - Connected to database.
+2024-05-07 19:03:55,993 - INFO - NumExpr defaulting to 4 threads.
+2024-05-07 19:04:15,449 - INFO - Connected to database.
+2024-05-07 19:06:23,394 - INFO - login_button clicked
+2024-05-07 19:06:23,741 - INFO - reports_button clicked
+2024-05-07 19:06:24,324 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-07 19:06:24,575 - INFO - exit_button clicked
+2024-05-08 09:13:22,773 - INFO - Printing recommendations (via dropdowns)...
+2024-05-08 09:13:34,746 - INFO - Printing recommendations (via dropdowns)...
+2024-05-08 09:13:37,432 - INFO - Creating scatterplot...
+2024-05-08 09:16:00,624 - INFO - Printing recommendations (via dropdowns)...
+2024-05-08 09:16:20,861 - INFO - Printing recommendations (via dropdowns)...
+2024-05-08 09:52:04,437 - INFO - NumExpr defaulting to 4 threads.
+2024-05-08 09:52:13,027 - INFO - Connected to database.
+2024-05-08 09:57:30,853 - INFO - login_button clicked
+2024-05-08 09:57:53,119 - INFO - reports_button clicked
+2024-05-08 10:01:57,847 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-08 10:02:07,559 - INFO - exit_button clicked
+2024-05-08 10:03:10,168 - INFO - Succesful login, Customer ID: 1
+2024-05-08 10:03:29,738 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-08 10:03:47,843 - INFO - customer's top_comics values successfully listed
+2024-05-08 10:03:47,843 - INFO - Printing customer's purchased titles...
+2024-05-08 10:29:16,057 - INFO - Succesful login, Customer ID: 1
+2024-05-08 10:30:21,392 - INFO - Succesful login, Customer ID: 1
+2024-05-08 10:32:22,786 - INFO - NumExpr defaulting to 4 threads.
+2024-05-08 10:32:42,948 - INFO - Connected to database.
+2024-05-08 10:38:50,375 - INFO - login_button clicked
+2024-05-08 10:38:58,295 - INFO - reports_button clicked
+2024-05-08 10:39:08,540 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-08 10:39:10,504 - INFO - exit_button clicked
+2024-05-08 12:47:22,453 - INFO - NumExpr defaulting to 4 threads.
+2024-05-08 12:48:02,920 - INFO - Connected to database.
+2024-05-08 12:51:43,596 - INFO - login_button clicked
+2024-05-08 12:51:51,721 - INFO - reports_button clicked
+2024-05-08 12:51:56,050 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-08 12:51:56,651 - INFO - exit_button clicked
+2024-05-08 16:47:52,171 - INFO - NumExpr defaulting to 4 threads.
+2024-05-08 16:48:12,548 - INFO - Connected to database.
+2024-05-08 16:53:19,941 - INFO - login_button clicked
+2024-05-08 16:53:23,941 - INFO - reports_button clicked
+2024-05-08 16:53:28,732 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-08 16:53:29,753 - INFO - exit_button clicked
+2024-05-09 14:03:13,424 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 14:03:34,753 - INFO - Connected to database.
+2024-05-09 16:03:52,613 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 16:04:00,591 - INFO - Connected to database.
+2024-05-09 16:21:08,701 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 16:21:16,955 - INFO - Connected to database.
+2024-05-09 17:06:32,720 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 17:06:40,581 - INFO - Connected to database.
+2024-05-09 17:36:55,638 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 17:37:03,853 - INFO - Connected to database.
+2024-05-09 17:48:15,117 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 17:48:23,477 - INFO - Connected to database.
+2024-05-09 17:53:58,994 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 17:54:07,099 - INFO - Connected to database.
+2024-05-09 18:02:10,053 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:02:19,280 - INFO - Connected to database.
+2024-05-09 18:07:42,904 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:07:51,578 - INFO - Connected to database.
+2024-05-09 18:11:18,843 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:11:27,050 - INFO - Connected to database.
+2024-05-09 18:16:06,741 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:16:14,976 - INFO - Connected to database.
+2024-05-09 18:24:56,041 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:25:04,145 - INFO - Connected to database.
+2024-05-09 18:32:35,714 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:32:44,783 - INFO - Connected to database.
+2024-05-09 18:34:26,638 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:34:35,116 - INFO - Connected to database.
+2024-05-09 18:38:33,614 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:38:41,402 - INFO - Connected to database.
+2024-05-09 18:50:57,357 - INFO - NumExpr defaulting to 4 threads.
+2024-05-09 18:51:06,201 - INFO - Connected to database.
+2024-05-10 13:04:44,995 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 13:04:54,974 - INFO - Connected to database.
+2024-05-10 13:06:00,797 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 13:06:09,206 - INFO - Connected to database.
+2024-05-10 13:07:53,900 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 13:08:02,566 - INFO - Connected to database.
+2024-05-10 13:11:58,848 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 13:12:07,447 - INFO - Connected to database.
+2024-05-10 13:14:38,556 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 13:14:47,171 - INFO - Connected to database.
+2024-05-10 14:33:05,443 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 14:33:40,671 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 14:34:05,729 - INFO - Connected to database.
+2024-05-10 14:42:30,027 - INFO - login_button clicked
+2024-05-10 14:42:44,858 - INFO - reports_button clicked
+2024-05-10 14:43:11,562 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-10 14:43:12,497 - INFO - exit_button clicked
+2024-05-10 16:13:31,768 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 16:13:43,766 - INFO - Connected to database.
+2024-05-10 16:26:06,345 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 16:26:14,831 - INFO - Connected to database.
+2024-05-10 17:09:06,417 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 17:09:14,807 - INFO - Connected to database.
+2024-05-10 17:13:39,243 - INFO - login_button clicked
+2024-05-10 17:13:44,668 - INFO - reports_button clicked
+2024-05-10 17:13:49,770 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-10 17:13:50,994 - INFO - exit_button clicked
+2024-05-10 17:51:17,119 - INFO - NumExpr defaulting to 4 threads.
+2024-05-10 17:51:35,679 - INFO - Connected to database.
+2024-05-10 17:58:29,248 - INFO - login_button clicked
+2024-05-10 17:58:38,863 - INFO - reports_button clicked
+2024-05-10 17:58:55,497 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-10 17:58:56,341 - INFO - exit_button clicked
+2024-05-12 17:34:10,815 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 17:34:26,116 - INFO - Connected to database.
+2024-05-12 17:42:41,965 - INFO - login_button clicked
+2024-05-12 17:47:34,625 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 17:48:41,117 - INFO - Connected to database.
+2024-05-12 17:52:30,358 - INFO - login_button clicked
+2024-05-12 17:52:32,854 - INFO - reports_button clicked
+2024-05-12 17:52:35,950 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 17:52:36,445 - INFO - exit_button clicked
+2024-05-12 18:01:30,953 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 18:03:10,861 - INFO - Connected to database.
+2024-05-12 18:06:57,420 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 18:07:05,780 - INFO - Connected to database.
+2024-05-12 18:15:33,375 - INFO - login_button clicked
+2024-05-12 18:15:35,163 - INFO - reports_button clicked
+2024-05-12 18:15:35,964 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 18:15:36,427 - INFO - exit_button clicked
+2024-05-12 18:17:36,908 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 18:17:45,062 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 18:17:57,253 - INFO - Creating scatterplot...
+2024-05-12 18:20:12,073 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 18:20:36,211 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 18:20:40,155 - INFO - Creating scatterplot...
+2024-05-12 18:20:40,440 - INFO - Creating scatterplot...
+2024-05-12 18:22:22,981 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 18:22:32,127 - INFO - Connected to database.
+2024-05-12 18:23:28,434 - INFO - login_button clicked
+2024-05-12 18:23:29,236 - INFO - reports_button clicked
+2024-05-12 18:23:29,975 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 18:23:30,308 - INFO - exit_button clicked
+2024-05-12 18:23:51,155 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 18:23:58,460 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 18:24:01,640 - INFO - Creating scatterplot...
+2024-05-12 18:32:25,931 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 18:32:44,087 - INFO - Connected to database.
+2024-05-12 18:33:54,035 - INFO - login_button clicked
+2024-05-12 18:33:54,459 - INFO - reports_button clicked
+2024-05-12 18:33:55,128 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 18:33:55,433 - INFO - exit_button clicked
+2024-05-12 18:34:57,014 - INFO - Succesful login, Customer ID: 1
+2024-05-12 18:42:26,392 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 18:42:46,874 - INFO - Connected to database.
+2024-05-12 18:54:25,218 - INFO - login_button clicked
+2024-05-12 18:54:42,239 - INFO - reports_button clicked
+2024-05-12 18:54:53,554 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 18:54:57,369 - INFO - exit_button clicked
+2024-05-12 18:56:32,908 - INFO - Succesful login, Customer ID: 1
+2024-05-12 18:56:47,747 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-12 18:56:48,279 - INFO - customer's top_comics values successfully listed
+2024-05-12 18:56:48,279 - INFO - Printing customer's purchased titles...
+2024-05-12 19:21:04,238 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 19:21:12,606 - INFO - Connected to database.
+2024-05-12 19:22:05,951 - INFO - login_button clicked
+2024-05-12 19:22:06,415 - INFO - reports_button clicked
+2024-05-12 19:22:06,995 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 19:22:07,439 - INFO - exit_button clicked
+2024-05-12 19:22:53,685 - INFO - Succesful login, Customer ID: 1
+2024-05-12 19:23:33,320 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-12 19:23:33,637 - INFO - customer's top_comics values successfully listed
+2024-05-12 19:23:33,637 - INFO - Printing customer's purchased titles...
+2024-05-12 19:24:35,881 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 19:24:53,498 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 19:25:01,454 - INFO - Creating scatterplot...
+2024-05-12 19:25:46,158 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 19:25:55,219 - INFO - Connected to database.
+2024-05-12 19:27:35,134 - INFO - login_button clicked
+2024-05-12 19:27:35,719 - INFO - reports_button clicked
+2024-05-12 19:27:36,452 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 19:27:37,023 - INFO - exit_button clicked
+2024-05-12 19:28:50,442 - INFO - Succesful login, Customer ID: 17
+2024-05-12 19:29:36,407 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-12 19:29:36,654 - INFO - customer's top_comics values successfully listed
+2024-05-12 19:29:36,654 - INFO - Printing customer's purchased titles...
+2024-05-12 19:37:12,135 - INFO - NumExpr defaulting to 4 threads.
+2024-05-12 19:37:19,726 - INFO - Connected to database.
+2024-05-12 19:38:22,079 - INFO - login_button clicked
+2024-05-12 19:38:22,642 - INFO - reports_button clicked
+2024-05-12 19:38:23,166 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-12 19:38:23,428 - INFO - exit_button clicked
+2024-05-12 19:40:17,322 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 19:40:29,155 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 19:40:40,489 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 19:40:51,052 - INFO - Creating scatterplot...
+2024-05-12 19:41:43,686 - INFO - Succesful login, Customer ID: 14
+2024-05-12 19:43:06,142 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-12 19:43:06,327 - INFO - customer's top_comics values successfully listed
+2024-05-12 19:43:06,343 - INFO - Printing customer's purchased titles...
+2024-05-12 19:44:27,454 - INFO - Printing recommendations (via search_box)...
+2024-05-12 19:44:44,584 - INFO - Printing recommendations (via search_box)...
+2024-05-12 19:44:46,110 - INFO - Printing recommendations (via search_box)...
+2024-05-12 19:45:49,108 - INFO - Printing recommendations (via search_box)...
+2024-05-12 19:45:49,118 - INFO - Creating scatterplot...
+2024-05-12 19:45:49,350 - INFO - Creating scatterplot...
+2024-05-12 19:45:49,720 - INFO - Creating scatterplot...
+2024-05-12 19:47:31,884 - INFO - Succesful login, Customer ID: 1
+2024-05-12 19:48:18,444 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-12 19:48:18,811 - INFO - customer's top_comics values successfully listed
+2024-05-12 19:48:18,811 - INFO - Printing customer's purchased titles...
+2024-05-12 19:49:00,076 - INFO - Printing recommendations (via dropdowns)...
+2024-05-12 19:49:05,825 - INFO - Creating scatterplot...
+2024-05-14 15:13:09,039 - INFO - NumExpr defaulting to 4 threads.
+2024-05-14 15:13:41,018 - INFO - Connected to database.
+2024-05-14 15:14:39,747 - INFO - login_button clicked
+2024-05-14 15:14:40,184 - INFO - reports_button clicked
+2024-05-14 15:14:40,749 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-14 15:14:41,049 - INFO - exit_button clicked
+2024-05-16 15:49:08,330 - INFO - NumExpr defaulting to 4 threads.
+2024-05-16 15:49:37,257 - INFO - Connected to database.
+2024-05-16 15:50:41,897 - INFO - login_button clicked
+2024-05-16 15:50:46,696 - INFO - reports_button clicked
+2024-05-16 15:50:49,117 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-16 15:50:52,211 - INFO - exit_button clicked
+2024-05-16 16:42:14,153 - INFO - NumExpr defaulting to 4 threads.
+2024-05-16 16:42:29,878 - INFO - Connected to database.
+2024-05-16 16:43:35,931 - INFO - login_button clicked
+2024-05-16 16:43:36,383 - INFO - reports_button clicked
+2024-05-16 16:43:36,994 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-16 16:43:37,412 - INFO - exit_button clicked
+2024-05-18 21:01:00,404 - INFO - NumExpr defaulting to 4 threads.
+2024-05-18 21:01:33,306 - INFO - Connected to database.
+2024-05-18 21:03:00,031 - INFO - login_button clicked
+2024-05-18 21:03:01,804 - INFO - reports_button clicked
+2024-05-18 21:03:03,031 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-18 21:03:03,408 - INFO - exit_button clicked
+2024-05-19 09:28:31,833 - INFO - NumExpr defaulting to 4 threads.
+2024-05-19 09:28:43,242 - INFO - Connected to database.
+2024-05-19 09:31:09,910 - INFO - login_button clicked
+2024-05-19 09:31:13,936 - INFO - reports_button clicked
+2024-05-19 09:31:17,368 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-19 09:31:18,125 - INFO - exit_button clicked
+2024-05-19 09:35:28,946 - INFO - NumExpr defaulting to 4 threads.
+2024-05-19 09:35:42,813 - INFO - Connected to database.
+2024-05-19 09:36:54,961 - INFO - login_button clicked
+2024-05-19 09:36:55,562 - INFO - reports_button clicked
+2024-05-19 09:36:56,273 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-19 09:36:56,633 - INFO - exit_button clicked
+2024-05-19 09:46:00,149 - INFO - NumExpr defaulting to 4 threads.
+2024-05-19 09:46:04,242 - INFO - Connected to database.
+2024-05-19 09:47:04,178 - INFO - login_button clicked
+2024-05-19 09:47:04,764 - INFO - reports_button clicked
+2024-05-19 09:47:06,251 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-19 09:47:06,668 - INFO - exit_button clicked
+2024-05-19 09:48:15,088 - INFO - Succesful login, Customer ID: 1
+2024-05-19 09:49:42,992 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-19 09:49:43,708 - INFO - customer's top_comics values successfully listed
+2024-05-19 09:49:43,708 - INFO - Printing customer's purchased titles...
+2024-05-19 09:50:14,043 - INFO - Printing recommendations (via dropdowns)...
+2024-05-19 09:50:27,303 - INFO - Printing recommendations (via dropdowns)...
+2024-05-19 09:50:35,133 - INFO - Creating scatterplot...
+2024-05-19 09:51:05,763 - INFO - Printing recommendations (via dropdowns)...
+2024-05-19 09:51:11,392 - INFO - Printing recommendations (via dropdowns)...
+2024-05-19 09:51:14,146 - INFO - Creating scatterplot...
+2024-05-19 09:53:07,902 - INFO - Printing recommendations (via search_box)...
+2024-05-19 09:53:30,760 - INFO - Printing recommendations (via search_box)...
+2024-05-19 09:53:32,961 - INFO - Printing recommendations (via search_box)...
+2024-05-19 09:54:34,094 - INFO - Printing recommendations (via search_box)...
+2024-05-19 09:55:31,516 - INFO - Creating scatterplot...
+2024-05-19 13:50:12,708 - INFO - NumExpr defaulting to 4 threads.
+2024-05-19 13:50:17,353 - INFO - Connected to database.
+2024-05-19 13:51:48,824 - INFO - login_button clicked
+2024-05-19 13:51:51,277 - INFO - reports_button clicked
+2024-05-19 13:51:53,535 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-19 13:51:54,231 - INFO - exit_button clicked
+2024-05-19 15:37:27,592 - INFO - NumExpr defaulting to 4 threads.
+2024-05-19 15:37:53,649 - INFO - Connected to database.
+2024-05-19 15:38:58,624 - INFO - login_button clicked
+2024-05-19 15:38:59,427 - INFO - reports_button clicked
+2024-05-19 15:39:00,800 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-19 15:39:01,286 - INFO - exit_button clicked
+2024-05-19 17:03:34,050 - INFO - Succesful login, Customer ID: 1
+2024-05-19 17:18:43,735 - INFO - Creating bar chart detailing customer's top comics...
+2024-05-19 17:18:44,421 - INFO - customer's top_comics values successfully listed
+2024-05-19 17:18:44,421 - INFO - Printing customer's purchased titles...
+2024-05-19 17:45:18,552 - INFO - Printing recommendations (via dropdowns)...
+2024-05-19 17:45:32,452 - INFO - Creating scatterplot...
+2024-05-19 18:11:10,040 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:11:36,302 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:11:36,486 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:12:26,484 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:12:26,731 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:13:16,667 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:13:16,768 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:14:08,492 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:14:08,507 - INFO - Creating scatterplot...
+2024-05-19 18:15:03,479 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:15:56,785 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:15:56,865 - INFO - Printing recommendations (via search_box)...
+2024-05-19 18:16:51,122 - INFO - Printing recommendations (via search_box)...
+2024-05-21 14:07:01,332 - INFO - NumExpr defaulting to 4 threads.
+2024-05-21 14:07:51,216 - INFO - Connected to database.
+2024-05-21 14:09:59,008 - INFO - login_button clicked
+2024-05-21 14:10:03,120 - INFO - reports_button clicked
+2024-05-21 14:10:07,517 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-21 14:10:08,251 - INFO - exit_button clicked
+2024-05-21 14:40:34,295 - INFO - NumExpr defaulting to 4 threads.
+2024-05-21 14:40:49,242 - INFO - Connected to database.
+2024-05-21 14:42:11,597 - INFO - login_button clicked
+2024-05-21 14:42:12,847 - INFO - reports_button clicked
+2024-05-21 14:42:14,757 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-21 14:42:15,236 - INFO - exit_button clicked
+2024-05-22 11:44:56,065 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 11:45:31,607 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 11:45:42,484 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 11:45:45,074 - INFO - Creating scatterplot...
+2024-05-22 11:46:11,991 - INFO - Creating scatterplot...
+2024-05-22 12:40:54,659 - INFO - NumExpr defaulting to 4 threads.
+2024-05-22 12:41:27,443 - INFO - Connected to database.
+2024-05-22 12:44:06,367 - INFO - login_button clicked
+2024-05-22 12:44:10,593 - INFO - reports_button clicked
+2024-05-22 12:44:13,970 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 12:44:14,772 - INFO - exit_button clicked
+2024-05-22 12:51:36,337 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 12:51:52,289 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 12:51:58,376 - INFO - Creating scatterplot...
+2024-05-22 13:05:01,975 - INFO - NumExpr defaulting to 4 threads.
+2024-05-22 13:05:26,274 - INFO - Connected to database.
+2024-05-22 13:06:31,311 - INFO - login_button clicked
+2024-05-22 13:06:31,860 - INFO - reports_button clicked
+2024-05-22 13:06:33,379 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 13:06:33,849 - INFO - exit_button clicked
+2024-05-22 13:07:15,397 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 13:08:09,195 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 13:08:15,805 - INFO - Creating scatterplot...
+2024-05-22 13:43:55,681 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 13:44:22,267 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 13:44:24,929 - INFO - Creating scatterplot...
+2024-05-22 13:44:24,991 - INFO - Creating scatterplot...
+2024-05-22 13:46:11,686 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 13:49:22,728 - INFO - NumExpr defaulting to 4 threads.
+2024-05-22 13:49:38,069 - INFO - Connected to database.
+2024-05-22 13:51:14,062 - INFO - login_button clicked
+2024-05-22 13:51:15,497 - INFO - reports_button clicked
+2024-05-22 13:51:17,339 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 13:51:17,717 - INFO - exit_button clicked
+2024-05-22 13:52:02,437 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 13:53:14,218 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 13:53:26,769 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 13:53:31,398 - INFO - Creating scatterplot...
+2024-05-22 14:00:14,765 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 14:00:28,344 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 14:00:37,118 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 14:00:39,424 - INFO - Creating scatterplot...
+2024-05-22 14:00:39,587 - INFO - Creating scatterplot...
+2024-05-22 14:12:51,871 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 14:14:55,096 - INFO - NumExpr defaulting to 4 threads.
+2024-05-22 14:15:08,639 - INFO - Connected to database.
+2024-05-22 14:16:14,731 - INFO - login_button clicked
+2024-05-22 14:16:16,088 - INFO - reports_button clicked
+2024-05-22 14:16:18,193 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 14:16:18,794 - INFO - exit_button clicked
+2024-05-22 14:16:42,674 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 14:17:20,809 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 14:17:27,064 - INFO - Creating scatterplot...
+2024-05-22 14:18:06,969 - INFO - Creating scatterplot...
+2024-05-22 14:44:18,639 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 14:44:31,530 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 14:44:35,480 - INFO - Creating scatterplot...
+2024-05-22 14:44:35,596 - INFO - Creating scatterplot...
+2024-05-22 14:50:21,498 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 14:50:29,704 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 14:50:31,880 - INFO - Creating scatterplot...
+2024-05-22 14:50:31,996 - INFO - Creating scatterplot...
+2024-05-22 14:50:32,158 - INFO - Creating scatterplot...
+2024-05-22 14:52:47,906 - INFO - NumExpr defaulting to 4 threads.
+2024-05-22 14:53:08,632 - INFO - Connected to database.
+2024-05-22 14:54:22,481 - INFO - login_button clicked
+2024-05-22 14:54:24,418 - INFO - reports_button clicked
+2024-05-22 14:54:26,193 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 14:54:26,591 - INFO - exit_button clicked
+2024-05-22 15:18:30,248 - INFO - Printing recommendations (via dropdowns)...
+2024-05-22 15:18:35,062 - INFO - Creating scatterplot...
+2024-05-22 15:44:17,028 - INFO - NumExpr defaulting to 4 threads.
+2024-05-22 15:44:38,872 - INFO - Connected to database.
+2024-05-22 15:46:15,553 - INFO - login_button clicked
+2024-05-22 15:46:17,320 - INFO - reports_button clicked
+2024-05-22 15:46:19,563 - INFO - rec_similarities_scatterplot_button clicked
+2024-05-22 15:46:20,065 - INFO - exit_button clicked
+2024-05-22 16:11:52,766 - INFO - Succesful login, Customer ID: 1
